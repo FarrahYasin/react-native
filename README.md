@@ -22,8 +22,5 @@
 
 
 
-
-(\ _/)</br>
-(^ .^)</br>
-/ >💜 solved with Rama </br> 
+ solved with Rama 😁
 
