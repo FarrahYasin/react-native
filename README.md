@@ -10,7 +10,7 @@
 
 #### LAB42
 
-(Lab42)[https://snack.expo.dev/@farahyasin/lab42]
+[Lab42](https://snack.expo.dev/@farahyasin/lab42)
 
 <img width="773" alt="image" src="https://github.com/FarrahYasin/react-native/assets/117269271/c15ea541-f2fb-4b39-b560-49ae6c5edb75">
 
