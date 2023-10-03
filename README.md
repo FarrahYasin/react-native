@@ -16,7 +16,7 @@
 
 <img width="790" alt="image" src="https://github.com/FarrahYasin/react-native/assets/117269271/a6507039-1c94-4b56-9138-2eb888f05f22">
 
-<img width="796" alt="image" src="https://github.com/FarrahYasin/react-native/assets/117269271/f451f8ab-8e1a-46d6-a061-1c717335617c">
+<img width="782" alt="image" src="https://github.com/FarrahYasin/react-native/assets/117269271/d1bd44d5-d069-466f-a0d7-a5d340ea8540">
 
 
 
